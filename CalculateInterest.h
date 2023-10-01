@@ -1,0 +1,8 @@
+#pragma once
+
+#ifndef AIRGEAD_INTEREST_CALCULATEINTEREST_H
+#define AIRGEAD_INTEREST_CALCULATEINTEREST_H
+
+float CalculateInterest(float, float);
+
+#endif // AIRGEAD_INTEREST_CALCULATEINTEREST_H
